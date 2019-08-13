@@ -1,4 +1,4 @@
-# Chronoton
+# ⏱ Chronoton
 
 Chronoton is a small cli that allows you to specify time based scaling rules via a yaml file
 and to periodically check the rules and send potential changes to a foreman gantry crane
